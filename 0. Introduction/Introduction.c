@@ -8,7 +8,7 @@ int main(int argc, char *argv[]){
 }
 /*
 Compiling our C program called Introduction.c
-    gcc .\Introduction.c -o Introduction
-    or
-    cc .\Introduction.c -o Introduction
+    gcc .\Introduction.c -o Introduction (cc .\Introduction.c -o Introduction)
+    You have created the file called Introduction.exe
+    To run the new file you must execute ./Introduction.exe   
 */
