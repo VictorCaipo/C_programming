@@ -6,4 +6,9 @@ int main(int argc, char *argv[]){
     printf("You are %d miles away.\n",distance);/*The prinf funciton can take multiple arguments*/
     return 0;
 }
-/*gcc .\Introduction.c -o Introduction*/
+/*
+Compiling our C program called Introduction.c
+    gcc .\Introduction.c -o Introduction
+    or
+    cc .\Introduction.c -o Introduction
+*/
