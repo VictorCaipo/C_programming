@@ -1,2 +1,2 @@
 # C Programming
-This is a summary you might find useful
+Just interesting basic C code
